@@ -35,10 +35,7 @@ The dataset consists of text samples with corresponding labels: `"REAL"` or `"FA
 ## 👥 Team Members
 
 Developed as part of the Naan Mudhalvan program by:
-- S. Pavankumar  
-- Naveen R.  
-- Navinesh B.  
-- Perumalsamy R.P  
+
 - Surieyaa S.  
 - Sri Latchmana Ganapathy  
 - Syed Aadhil  
